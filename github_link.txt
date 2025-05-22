@@ -1,1 +1,1 @@
-https://github.com/lispaceya/cpe310_villanueva/blob/main/Final Case Study/ Netflix Dataset_Edades&Villanueva.ipynb - Colab
+https://github.com/lispaceya/cpe310_villanueva/blob/main/Final Case Study: Netflix Dataset_Edades&Villanueva.ipynb
